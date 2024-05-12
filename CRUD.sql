@@ -1,6 +1,6 @@
 -- 
 --                                         				                                   
---       PW8 - APLIKACJE BAZODANOWE - LABORATORIUM 		  		               
+--        		               
 --                                        					                                   
 -- 
 --  																		     
@@ -8,7 +8,7 @@
 --  																		     
 -- 
 --  																		     
---    Nr indeksu 102452
+--    
 --  																		     
 -- 
 -- 
